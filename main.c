@@ -2,5 +2,6 @@
 
 int main()
 {
+    printf("hello lly \r\n")
     printf("hello woirld\r\n");
 }
